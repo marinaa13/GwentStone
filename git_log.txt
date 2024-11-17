@@ -1,0 +1,35 @@
+commit cc44b4eff5ba9f3acabe2b2847256d591802361e
+Author: Marina Simion <mar2005simion@gmail.com>
+Date:   Sun Nov 17 22:27:29 2024 +0200
+
+    all done
+
+commit caf84cd8d2865b72b2e4a13cc42c92fcb32dfc7c
+Author: Marina Simion <mar2005simion@gmail.com>
+Date:   Sun Nov 17 15:32:09 2024 +0200
+
+    final form, need to write readme now
+
+commit 053cc9ad5e002b09e041967d5c695c323a69876a
+Author: Marina Simion <mar2005simion@gmail.com>
+Date:   Sun Nov 17 15:23:33 2024 +0200
+
+    coding style done, maybe change some packages
+
+commit 8f48b4beaa5c558082c9beea91878cebbee4ac00
+Author: Marina Simion <mar2005simion@gmail.com>
+Date:   Sun Nov 10 00:16:04 2024 +0200
+
+    80/80, but needs A LOT of refactoring and styling
+
+commit f3ee10c6b07f049ae6282f7e69def663a525e373
+Author: Marina Simion <mar2005simion@gmail.com>
+Date:   Sun Nov 10 00:01:59 2024 +0200
+
+    solved everything except the tests with mutiple tests. needs a lot of refactoring tho
+
+commit 49c47bcf4d76e81be879cb589fe0e83e85903ff5
+Author: Marina Simion <mar2005simion@gmail.com>
+Date:   Sun Oct 27 12:43:06 2024 +0200
+
+    first commit
